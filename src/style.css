@@ -1,0 +1,65 @@
+*{
+    padding: 0px;
+    margin: 0px;
+    box-sizing: border-box;
+}
+.sec{
+    background-image: linear-gradient(rgba(0, 0, 0, 0.068), rgba(0, 0, 0, 0.185)),url("https://www.chawtechsolutions.com/wp-content/uploads/2019/03/developer-dribbble.gif");
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 100%;
+    height: 100vh;
+}
+h2{
+    font-family: cursive;
+    font-size: 50px;
+    margin-left: 200px;
+}
+
+.plus{
+    width: 40px;
+    height: 40px;
+    font-size: 15px;
+    background-color:rgba(13, 4, 65, 0.349);
+    margin-left: 1015px;
+    border-radius: 5px;
+}
+.plus:hover{
+    box-shadow: rgba(50, 50, 93, 0.25) 0px 30px 60px -12px inset, rgba(0, 0, 0, 0.3) 0px 18px 36px -18px inset;
+    cursor: pointer;
+}
+
+.minus{
+    width: 40px;
+    height: 40px;
+   font-size: 15px;
+    background-color: rgba(15, 137, 194, 0.308);
+    margin-left: 20px;
+    border-radius: 5px;
+}
+.minus:hover{
+    box-shadow: rgba(50, 50, 93, 0.25) 0px 30px 60px -12px inset, rgba(0, 0, 0, 0.3) 0px 18px 36px -18px inset;
+    cursor: pointer;
+}
+.res{
+    width: 90px;
+    height: 40px;
+    font-size: 20px;
+    background-color: rgba(255, 0, 13, 0.459);
+    margin-left: 1020px;
+    margin-top: 20px;
+    border-radius: 5px;
+
+}
+.zero{
+    /* width: 50px;
+    height: 50px; */
+    /* box-shadow: rgba(50, 50, 93, 0.25) 0px 13px 27px -5px, rgba(0, 0, 0, 0.3) 0px 8px 16px -8px; */
+    /* border: solid 2px white; */
+    margin-left: 750px;
+    text-align: center;
+  
+    margin-bottom: 20px ;
+    color: black;
+    padding-top: 200px;
+} 
